@@ -5,11 +5,7 @@
 //
 //		Student:				Spencer Verharst
 //
-//		Assignment:				Program #05
-//
 //		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
 //
 //		This program sets up the Node struct as a template.
 //	
@@ -52,5 +48,6 @@ Node<TYPE>::Node(const TYPE& dat, Node<TYPE>* nex)
 }
 
 //*****************************************************************************************************
+
 
 #endif
