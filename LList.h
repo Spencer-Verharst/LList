@@ -1,14 +1,10 @@
 //*****************************************************************************************************
 //
-//		File:					Node.h
+//		File:					LList.h
 //
 //		Student:				Spencer Verharst
 //
-//		Assignment:				Program #05
-//
 //		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
 //
 //		This program sets up the LList class as a template.
 //	
@@ -266,5 +262,6 @@ bool LList<TYPE>::isFull() const
 }
 
 //*****************************************************************************************************
+
 
 #endif
