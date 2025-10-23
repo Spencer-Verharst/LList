@@ -1,14 +1,10 @@
 //*****************************************************************************************************
 //
-//		File:					LList.h
+//		File:					LDriver.cpp
 //
 //		Student:				Spencer Verharst
 //
-//		Assignment:				Program #05
-//
 //		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
 //
 //		This program is the driver for the LList class.
 //	
@@ -446,4 +442,5 @@ Testing empty thats not empty...
 No, list is not empty.
 
 Testing full...
+
 No, list is not full.*/
